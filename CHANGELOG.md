@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 138
-- email: maintenance and dependency updates (2026-11-25 13:16)
+## Sprint 139
+- email: maintenance and dependency updates (2026-11-25 17:14)
